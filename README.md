@@ -7,7 +7,7 @@ Frontend Developer
 I'm a frontend developer based in Shalimar, Florida, passionate about building responsive, user-friendly web applications. After beginning with web design in high school and pursuing other career paths, I returned to software development and have been focused on expanding my skills across modern frontend and backend technologies.
 
 * 🌍  I'm based in Shalimar, Florida.
-* 🖥️  See my portfolio at [View My Portfolio](http://https://fes-copilot-course-6nv4c98w2-shalimar-cards-projects.vercel.app/practice/module-5-portfolio).
+* 🖥️  See my portfolio at [View My Portfolio](https://fes-copilot-course-6nv4c98w2-shalimar-cards-projects.vercel.app/practice/module-5-portfolio).
 * ✉️  You can contact me at [jovanminsel@gmail.com](mailto:jovanminsel@gmail.com).
 * 🚀  Currently building Shalimar Collectibles, a multi-TCG collection management application.(http://shalimar-cards.vercel.app/)
 * 🧠  Currently expanding my knowledge of React, Next.js, TypeScript, Firebase, and full-stack application development.
